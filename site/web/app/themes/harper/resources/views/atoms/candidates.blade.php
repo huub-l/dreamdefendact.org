@@ -1,4 +1,4 @@
-<div class="mw9 center">
+<div class="mw8 centered">
 <ul class="list pl0 mt0">
   <li
     class="flex items-center lh-copy pa3 ph0-l ph0-m bb b--black-10 bg-animate bg-white hover-bg-light-blue">

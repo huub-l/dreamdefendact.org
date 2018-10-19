@@ -117,9 +117,9 @@
 </div>
 </main>
 <div class="bg__dotted pa3 bt1 b--black-70 shadow-4">
-<div class="mw9 center">
+<div class="mw9 ph5-l ph4 center">
     <h1 class="display black f1 f-headline pl2 lh-solid mb0" href="{{ home_url('/') }}">YOUR CANDIDATES</h1>
-<div class="cf center">
+<div class="cf">
 <ul class="fl list pl0 mt0 w-40-ns w-100-m w-100 pa4 pr5-l">
   <li
     class="flex items-center lh-copy pa3 ph0-l ph0-m bb b--black-10 bg-animate hover-bg-light-blue">
