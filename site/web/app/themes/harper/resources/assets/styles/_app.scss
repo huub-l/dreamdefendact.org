@@ -1,13 +1,8 @@
-html {
-  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjZmZmIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNjY2MiPjwvcmVjdD4KPC9zdmc+");
-}
-
 body {
-  background: url('./../images/svg/wildflower.svg');
-  background-size: cover;
   background-attachment: fixed;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: bottom;
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjZmZmIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNjY2MiPjwvcmVjdD4KPC9zdmc+");
 }
 
 .wildflower {
@@ -20,13 +15,13 @@ body {
   bottom: 0;
   width: 100vw;
   height: 100vh;
-  background-position: 50% 115%;
+  background-position: 50% 135%;
   background-attachment: fixed;
   border: 10px solid black;
 }
 
 .bg__screen {
-  background: rgba(252, 255, 252, 0.95);
+  background: rgba(252, 255, 252, 0.4);
 }
 
 .nav-title {
@@ -34,19 +29,19 @@ body {
   font-family: $peace;
 }
 
-.bg__no {
+/* .bg__no {
   background: url('./../images/svg/no.svg');
-  background-size: 25%;
+  background-size: 30%;
   background-repeat: no-repeat;
-  background-position: 90% 10%;
+  background-position: 100% 0;
 }
 
 .bg__yes {
   background: url('./../images/svg/yes.svg');
-  background-size: 25%;
+  background-size: 100%;
   background-repeat: no-repeat;
-  background-position: 90% 10%;
-}
+  background-position: bottom;
+} */
 
 .bg__dotted {
   background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjZmZmIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNjY2MiPjwvcmVjdD4KPC9zdmc+");
