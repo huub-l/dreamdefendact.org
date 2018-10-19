@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="574px" height="293px" viewBox="0 0 574 293" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
-    <title>wildflower</title>
-    <desc>Created with Sketch.</desc>
     <defs>
         <polygon id="path-1" points="0.06 0.0197577619 573.661369 0.0197577619 573.661369 292.929 0.06 292.929"></polygon>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="#2a5402" fill-rule="evenodd">
         <g id="wildflower">
             <g id="Group-3">
-                <mask id="mask-2" fill="white">
+                <mask id="mask-2">
                     <use xlink:href="#path-1"></use>
                 </mask>
                 <g id="Clip-2"></g>

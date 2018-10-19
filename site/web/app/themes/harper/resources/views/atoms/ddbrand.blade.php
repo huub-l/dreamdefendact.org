@@ -1,0 +1,1 @@
+<div class="ddbrand">@asset('images/ddaf-b.png')</div>
