@@ -3,13 +3,13 @@
 # Define accompanying passwords/secrets in group_vars/production/vault.yml
 
 wordpress_sites:
-  votingguide.org:
+  vote.dreamdefenders.org:
     site_hosts:
-      - canonical: votingguide.org
+      - canonical: vote.dreamdefenders.org
         redirects:
-          - www.votingguide.org
+          - vote.dreamdefenders.org
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
-    repo: git@github.com:pixelcollective/votingguide.org.git # replace with your Git repo URL
+    repo: git@github.com:pixelcollective/vote.dreamdefenders.org.git # replace with your Git repo URL
     repo_subtree_path: site # relative path to your Bedrock/WP directory in your repo
     branch: master
     multisite:

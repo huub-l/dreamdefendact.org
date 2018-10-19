@@ -8,9 +8,9 @@ vault_users:
     salt: "generateme"
 
 # Variables to accompany `group_vars/production/wordpress_sites.yml`
-# Note: the site name (`votingguide.org`) must match up with the site name in the above file.
+# Note: the site name (`vote.dreamdefenders.org`) must match up with the site name in the above file.
 vault_wordpress_sites:
-  votingguide.org:
+  vote.dreamdefenders.org:
     env:
       db_password: example_dbpassword
       # Generate your keys here: https://roots.io/salts.html

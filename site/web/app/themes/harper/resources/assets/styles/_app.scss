@@ -1,0 +1,103 @@
+html {
+  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjZmZmIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNjY2MiPjwvcmVjdD4KPC9zdmc+");
+}
+
+body {
+  background: url('./../images/svg/wildflower.svg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+.bg__no {
+  background: url('./../images/svg/no.svg');
+  background-size: 25%;
+  background-repeat: no-repeat;
+  background-position: 90% 10%;
+}
+
+.bg__yes {
+  background: url('./../images/svg/yes.svg');
+  background-size: 25%;
+  background-repeat: no-repeat;
+  background-position: 90% 10%;
+}
+
+.bg__screen {
+  background: rgba(252, 255, 255, 0.8);
+}
+
+.bg__dotted {
+  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjZmZmIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNjY2MiPjwvcmVjdD4KPC9zdmc+");
+}
+
+.blobber {
+  border-radius: 30% 70% 30% 70% / 48% 30% 70% 52%;
+}
+
+.display {
+  font-family: $display;
+}
+
+.display.f-headline {
+  font-size: 7rem;
+}
+
+.display.f-subheadline {
+  font-size: 4rem;
+}
+
+.peace {
+  font-family: $peace;
+  font-size: 2rem;
+
+  @extend .black-90;
+}
+
+.f-giga {
+  text-transform: uppercase;
+  color: black;
+  font-size: 14rem;
+  font-family: $display;
+  line-height: 12rem;
+
+  @media screen and (max-width: 500px) {
+    font-size: 10rem;
+    line-height: 8rem;
+  }
+}
+
+.post-content {
+  h2 {
+    @extend .f4;
+    @extend .lh-title;
+    @extend .mt5-ns;
+    @extend .mt5;
+    @extend .sans-serif;
+    @extend .fw5;
+    @extend .ttu;
+    @extend .tracked;
+  }
+
+  p {
+    @extend .f5;
+    @extend .f4-ns;
+    @extend .lh-copy;
+    @extend .measure;
+  }
+
+  blockquote {
+    @extend .f6;
+    @extend .f5-ns;
+    @extend .lh-copy;
+    @extend .measure-wide;
+    @extend .pv2;
+    @extend .i;
+    @extend .pl4;
+    @extend .bl;
+    @extend .bw1;
+    @extend .b--gold;
+    @extend .mv4;
+  }
+}
