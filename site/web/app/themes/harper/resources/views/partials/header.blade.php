@@ -1,11 +1,12 @@
-<nav class="bg-black flex justify-between bb fixed w-100 mw-100 ph0 z-999">
-  <a class="link white-70 hover-white no-underline flex items-center pl2" href="">
-    @svg('vote-ballot')
-  </a>
-  <div class="flex items-right pv4 ph4 pr4 overflow-auto nowrap">
-    <a class="f3-ns f5 link white dim mr3 mr4-ns peace dib ttu" href="#0">Issues</a>
-    <a class="f3-ns f5 link white dim mr3 mr4-ns peace dib ttu" href="#0">Candidates</a>
-    <a class="f3-ns f5 link white dim mr3 mr4-ns peace dib ttu" href="#0">About</a>
-    <a class="f3-ns f5 link white dim mr3 mr4-ns peace dib ttu" href="#0">Donate</a>
+<div class="cf bg-black bg-animate">
+  <div class="fl w-50-l w-100">
+    <div class="pa3 pv3 pl4">
+      <h1 class="display white">DREAM DEFENDERS 2018 VOTER GUIDE</h1>
+    </div>
   </div>
-</nav>
+  <div class="fl w-50-l w-100 bg-animate">
+    <div class="pa3 pv3 bg-dark-red ph4">
+      <h1 class="display white tl-l tr tj">For Us. By Us. For A Better Florida.</h1>
+    </div>
+  </div>
+</div>

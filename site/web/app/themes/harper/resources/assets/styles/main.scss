@@ -1,4 +1,6 @@
-@import './var';
+@import './fonts';
 @import './tachyons-sass/tachyons';
+@import './config/bulma-vars';
+@import '~bulma/bulma';
 @import './type';
 @import './app';

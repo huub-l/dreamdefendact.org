@@ -24,25 +24,6 @@ body {
   background: rgba(252, 255, 252, 0.4);
 }
 
-.nav-title {
-  padding-top: 0;
-  font-family: $peace;
-}
-
-/* .bg__no {
-  background: url('./../images/svg/no.svg');
-  background-size: 30%;
-  background-repeat: no-repeat;
-  background-position: 100% 0;
-}
-
-.bg__yes {
-  background: url('./../images/svg/yes.svg');
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-position: bottom;
-} */
-
 .bg__dotted {
   background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjZmZmIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNjY2MiPjwvcmVjdD4KPC9zdmc+");
 }
@@ -59,37 +40,18 @@ body {
   }
 }
 
+.bordered {
+  border: 1rem solid $black;
+  border-top: none;
+}
+
+section.section {
+  @extend .pv6;
+  @extend .shadow-3;
+}
+
 .blobber {
   border-radius: 30% 70% 30% 70% / 48% 30% 70% 52%;
-}
-
-.display {
-  font-family: $display;
-}
-
-.display.f-headline {
-  font-size: 7rem;
-}
-
-.display.f-subheadline {
-  font-size: 4rem;
-}
-
-.peace {
-  font-family: $peace;
-}
-
-.f-giga {
-  text-transform: uppercase;
-  color: black;
-  font-size: 14rem;
-  font-family: $display;
-  line-height: 12rem;
-
-  @media screen and (max-width: 500px) {
-    font-size: 10rem;
-    line-height: 8rem;
-  }
 }
 
 .post-content {

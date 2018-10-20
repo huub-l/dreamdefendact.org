@@ -105,6 +105,7 @@
   },
   "dependencies": {
     "barba.js": "^1.0.0",
+    "bulma": "^0.7.2",
     "headroom.js": "^0.9.4",
     "jquery": "^3.3.1",
     "tachyons-sass": "~4.9"

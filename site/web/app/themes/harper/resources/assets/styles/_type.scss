@@ -1,15 +1,60 @@
-@font-face {
-  font-family: 'Rama Gothic C';
-  src: url('../fonts/rama-gothic-heavy.otf');
-  font-weight: 900;
-  font-style: normal;
+h1.display {
+  font-family: $family-display;
+  text-transform: uppercase;
+  font-size: 12rem;
+  line-height: 10rem;
+
+  @media screen and (max-width: 500px) {
+    font-size: 10rem;
+    line-height: 8rem;
+  }
 }
 
-@font-face {
-  font-family: 'Peace Sans';
-  src: url('../fonts/peace-sans.otf');
-  font-weight: 900;
-  font-style: normal;
+.subtitle {
+  font-family: $family-peace;
+  background: $dark-red;
+  color: $white;
+  display: inline;
+
+  @extend .ph2;
+  @extend .mb5;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Muli:300,400,400i,700,900');
+.peace {
+  font-family: $family-peace;
+}
+
+p {
+  font-family: $sans-serif;
+  letter-spacing: 0.1rem;
+
+  @extend .fw3;
+  @extend .lh-copy;
+}
+
+p strong {
+  @extend .black;
+  @extend .fw7;
+}
+
+.intro h2.subtitle {
+  @extend .mt4;
+  @extend .tracked;
+}
+
+.intro p {
+  @extend .f3;
+  @extend .f-headline;
+  @extend .black;
+  @extend .lh-copy;
+  @extend .mt4;
+  @extend .mb0;
+  @extend .pb0;
+}
+
+@media screen and (min-width: $bm) {
+  .section.intro p {
+    padding-right: $spacing-large;
+    padding-bottom: $spacing-large;
+  }
+}
