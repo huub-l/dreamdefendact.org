@@ -31,6 +31,9 @@
       <a class="navbar-item " href="#section-dream-defenders">
         ABOUT
       </a>
+      <a class="navbar-item " href="http://dreamdefenders.org/donate">
+        SUPPORT OUR WORK
+      </a>
     </div>
   </div>
 </nav>

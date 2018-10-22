@@ -25,4 +25,7 @@
     <img src="@asset('images/2018/dream-defenders-0012.jpg' )" />
   </div>
 </div>
+<div class="mw9 pv5 bg-black centered center-align">
+<div class="white has-text-centered f2">If you find this guide helpful or think it is important, please consider supporting our work.</div>
+  <div class="mt4 has-text-centered"><a href="http://dreamdefenders.org/donate" class="button is-large is-dark">Donate today</a></div>
 </div>

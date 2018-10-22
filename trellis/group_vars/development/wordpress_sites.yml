@@ -3,9 +3,9 @@
 # Define accompanying passwords/secrets in group_vars/development/vault.yml
 
 wordpress_sites:
-  vote.dreamdefenders.org:
+  dreamdefendact.org:
     site_hosts:
-      - canonical: vote.dreamdefenders.pix
+      - canonical: dreamdefendact.pix
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: developers@tinypixel.io
     multisite:

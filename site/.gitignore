@@ -12,6 +12,8 @@ web/.htaccess
 
 # Plugins
 web/app/plugins/harpers-ferry/*
+!web/app/plugins/monarch
+!web/app/plugins/bloom
 
 # Dotenv
 .env
