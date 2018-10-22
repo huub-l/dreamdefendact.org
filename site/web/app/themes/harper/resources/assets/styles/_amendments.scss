@@ -16,7 +16,8 @@
       color: white;
       background: $dark-red;
 
-      @extend .pv3;
+      @extend .fr;
+      @extend .pv2;
 
       @media screen and (max-width: $tablet) {
         writing-mode: lr;
