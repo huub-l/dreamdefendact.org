@@ -10,7 +10,7 @@
       <div class="columns is-8">
        <div class="column is-2">
          <figure class="image is-square">
-           <img class="is-rounded b1 b--light-gray shadow-3 ba" src="@asset('images/candidates/lauren.png')" alt="A bright blue sky" />
+           <img class="is-rounded b1 b--light-gray shadow-3 ba lozad" data-src="@asset('images/candidates/lauren.png')" alt="A bright blue sky" />
          </figure>
        </div>
        <div class="column push-">
@@ -26,7 +26,7 @@
      <div class="columns is-8">
        <div class="column is-2">
          <figure class="image is-square">
-           <img class="is-rounded b1 b--light-gray shadow-3 ba" src="@asset('images/candidates/stephanie.png')" alt="A bright blue sky" />
+           <img class="is-rounded b1 b--light-gray shadow-3 ba lozad" data-src="@asset('images/candidates/stephanie.png')" alt="A bright blue sky" />
          </figure>
        </div>
        <div class="column push-">
@@ -42,15 +42,15 @@
      <div class="columns is-8">
        <div class="column is-2">
          <figure class="image is-square">
-           <img class="is-rounded b1 b--light-gray shadow-3 ba" src="@asset('images/candidates/shalalala.png')" alt="A bright blue sky" />
+           <img class="is-rounded b1 b--light-gray shadow-3 ba lozad" data-src="@asset('images/candidates/shalalala.png')" alt="A bright blue sky" />
          </figure>
        </div>
-       <div class="column push-">
-         <h2 class="is-2 peace title">
+       <div class="column tc tl-ns">
+         <h2 class="is-2 peace tc tl-ns title">
            Donna Shalala
          </h2>
-         <h2 class="is-4 title">Running in District 27</h2>
-         <p class="lh-copy">
+         <h2 class="is-4 title tc tl-ns">Running in District 27</h2>
+         <p class="lh-copy tc tl-ns">
            Donna Shalala is the quintessential "DINO:" Democrat in Name Only. She has contributed $21,500 to Florida Republicans running for state, local and federal offices over the past decade - including GOP and frequent movement opponent Rep. Illeana Ros-Lehtinen. A president of the University of Miami, she was nicknamed "Donna Walmarta" for selling a parcel of environmentally sensitive University o Miami land to developers who plan to build a Walmart. While President, she blocked calls for raises by janitors at every turn, forcing them into a hunger strike that left many hospitalized. She also served time in the Clinton administration where the Washington Post labeled her "one of the most controversial Clinton Cabinet nominees.""
          </p>
        </div>

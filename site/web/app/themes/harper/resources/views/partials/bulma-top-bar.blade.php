@@ -1,6 +1,6 @@
 <nav class="navbar is-black sticky">
     <div class="navbar-brand">
-    <a class="navbar-item" href="http://bulma.io">
+    <a class="navbar-item" href="/">
       <div class="display ttu peace">// &nbsp; &nbsp; The Dream Defenders' 2018 Voting Guide</div>
     </a>
 

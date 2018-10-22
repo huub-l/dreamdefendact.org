@@ -7,10 +7,9 @@
         </div>
       </div>  
 
-      {{-- begin D: --}}
      <div class="columns b2 b--black">
-       <div class="title-wrapper column is-1">
-         <h2 class="is-4 title is-1 white bg-dark-red">Amendment 1: Vote NO</h2>
+       <div class="title-wrapper column">
+         <h2 class="is-4 mt4-ns mt0 title is-1 white bg-dark-red">Amendment 1: Vote NO</h2>
        </div>
        <div class="column is-5">
          <div class="box">
@@ -126,7 +125,7 @@
                       <div class="column is-5">
                         <h2 class="title is-3">What Is It?</h2>
                         <p>Amendment 9 protects Florida's coasts by banning oil drilling in Florida near shore waters. Bans vaping in enclosed indoor workspaces.</p>
-                        <h2 class="title is-3">Why Vote No?</h2>
+                        <h2 class="title is-3">Why Vote Yes?</h2>
                         <p>If passed, this would help protect Florida's coast and our oceans.</p>
                       </div>
                     </div>
