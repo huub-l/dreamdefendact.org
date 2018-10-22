@@ -31,7 +31,7 @@
       <a class="navbar-item " href="#section-dream-defenders">
         ABOUT
       </a>
-      <a class="navbar-item " href="http://dreamdefenders.org/donate">
+      <a class="navbar-item " href="https://www.dreamdefenders.org/onetime_donor">
         SUPPORT OUR WORK
       </a>
     </div>
