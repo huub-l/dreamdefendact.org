@@ -1,0 +1,41 @@
+#section-dream-killers {
+  .columns {
+    @extend .mv6;
+  }
+}
+
+#section-amendments {
+  .columns {
+    margin-bottom: $spacing-extra-extra-large;
+  }
+
+  .title-wrapper {
+    h2 {
+      writing-mode: vertical-lr;
+      transform: rotate(180deg);
+      color: white;
+      background: $dark-red;
+
+      @extend .pv3;
+
+      @media screen and (max-width: $tablet) {
+        writing-mode: lr;
+        transform: rotate(0deg);
+        margin-top: $spacing-extra-large;
+      }
+    }
+  }
+}
+
+#section-freedom-papers {
+  background: $black;
+
+  .display {
+    color: $white;
+  }
+}
+
+.section.section.intro .columns p,
+.section.section.prep .columns p {
+  padding-top: $spacing-extra-large;
+}

@@ -5,7 +5,6 @@
     <div class="bg__screen"> 
       @php do_action('get_header') @endphp
       @include ( 'partials.header' )
-      @include ( 'partials.top-bar' )
       @yield('content')
       @php do_action('get_footer') @endphp
       @include('partials.footer')

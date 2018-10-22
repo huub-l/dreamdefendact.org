@@ -1,7 +1,7 @@
-dddemo.tinypixel.io ansible_host=142.93.21.156
+staging.dreamdefendact.org ansible_host=142.93.21.156
 
 [staging]
-dddemo.tinypixel.io
+staging.dreamdefendact.org
 
 [web]
-dddemo.tinypixel.io
+staging.dreamdefendact.org

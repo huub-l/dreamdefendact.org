@@ -5,19 +5,27 @@ h1.display {
   line-height: 10rem;
 
   @media screen and (max-width: 500px) {
-    font-size: 10rem;
-    line-height: 8rem;
+    font-size: 5rem !important;
+    line-height: 4rem !important;
+  }
+}
+
+.header {
+  h1.display {
+    @media screen and (max-width: 1100px) {
+      font-size: 5rem;
+      line-height: 4rem;
+    }
   }
 }
 
 .subtitle {
   font-family: $family-peace;
-  background: $dark-red;
   color: $white;
-  display: inline;
+  display: inline-block;
+  margin-bottom: $spacing-large;
 
   @extend .ph2;
-  @extend .mb5;
 }
 
 .peace {
@@ -30,19 +38,6 @@ p {
 
   @extend .fw3;
   @extend .lh-copy;
-}
-
-p strong {
-  @extend .black;
-  @extend .fw7;
-}
-
-.intro h2.subtitle {
-  @extend .mt4;
-  @extend .tracked;
-}
-
-.intro p {
   @extend .f3;
   @extend .f-headline;
   @extend .black;
@@ -50,11 +45,64 @@ p strong {
   @extend .mt4;
   @extend .mb0;
   @extend .pb0;
-}
 
-@media screen and (min-width: $bm) {
-  .section.intro p {
+  @media screen and (min-width: $bm) {
     padding-right: $spacing-large;
     padding-bottom: $spacing-large;
   }
+}
+
+p strong {
+  @extend .black;
+  @extend .fw7;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: black;
+}
+
+h1 {
+  margin-bottom: $spacing-small;
+}
+
+h2 {
+  @extend .f4;
+  @extend .lh-title;
+  @extend .mt5-ns;
+  @extend .mt2;
+  @extend .mb3;
+  @extend .sans-serif;
+  @extend .fw5;
+  @extend .ttu;
+  @extend .tracked;
+}
+
+ul li,
+ol li {
+  @extend .black;
+  @extend .f3;
+  @extend .measure;
+  @extend .lh-title;
+  @extend .f-headline;
+  @extend .mb4;
+  @extend .pl4;
+}
+
+blockquote {
+  @extend .f6;
+  @extend .f5-ns;
+  @extend .lh-copy;
+  @extend .measure-wide;
+  @extend .pv2;
+  @extend .i;
+  @extend .pl4;
+  @extend .bl;
+  @extend .bw1;
+  @extend .b--black;
+  @extend .mv4;
 }

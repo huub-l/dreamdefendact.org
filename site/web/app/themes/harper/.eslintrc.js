@@ -28,7 +28,8 @@ module.exports = {
     "import/core-modules": [],
     "import/ignore": [
       "node_modules",
-      "\\.(coffee|scss|css|less|hbs|svg|json)$"
+      "\\.(coffee|scss|css|less|hbs|svg|json)$",
+      "\\.gsap.js"
     ]
   },
   "rules": {

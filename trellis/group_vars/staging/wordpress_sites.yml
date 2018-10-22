@@ -5,7 +5,7 @@
 wordpress_sites:
   vote.dreamdefenders.org:
     site_hosts:
-      - canonical: dddemo.tinypixel.io
+      - canonical: staging.dreamdefendact.org
         # redirects:
         #   - otherdomain.com
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)

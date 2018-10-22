@@ -5,19 +5,20 @@ body {
   background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjZmZmIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNjY2MiPjwvcmVjdD4KPC9zdmc+");
 }
 
-.wildflower {
-  background: url('../images/svg/wildflower.svg');
-  padding: 0;
-  margin: 0;
+.sticky {
+  position: sticky;
+}
+
+.interlude {
+  width: 100%;
   background-repeat: repeat-x;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100vw;
-  height: 100vh;
-  background-position: 50% 135%;
+  background-position: 80% 100%;
   background-attachment: fixed;
-  border: 10px solid black;
+}
+
+.bordered {
+  border: 1rem solid $black;
+  border-top: none;
 }
 
 .bg__screen {
@@ -40,50 +41,19 @@ body {
   }
 }
 
-.bordered {
-  border: 1rem solid $black;
-  border-top: none;
-}
-
 section.section {
   @extend .pv6;
   @extend .shadow-3;
+
+  .subtitle {
+    display: inline;
+  }
 }
 
-.blobber {
-  border-radius: 30% 70% 30% 70% / 48% 30% 70% 52%;
+section.section.intro {
+  @extend .pv7;
 }
 
-.post-content {
-  h2 {
-    @extend .f4;
-    @extend .lh-title;
-    @extend .mt5-ns;
-    @extend .mt5;
-    @extend .sans-serif;
-    @extend .fw5;
-    @extend .ttu;
-    @extend .tracked;
-  }
-
-  p {
-    @extend .f5;
-    @extend .f4-ns;
-    @extend .lh-copy;
-    @extend .measure;
-  }
-
-  blockquote {
-    @extend .f6;
-    @extend .f5-ns;
-    @extend .lh-copy;
-    @extend .measure-wide;
-    @extend .pv2;
-    @extend .i;
-    @extend .pl4;
-    @extend .bl;
-    @extend .bw1;
-    @extend .b--gold;
-    @extend .mv4;
-  }
+#section-prepare {
+  background: $yellow;
 }

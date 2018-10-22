@@ -6,6 +6,9 @@
     ],
     "customizer": [
       "./scripts/customizer.js"
+    ],
+    "scroll": [
+      "./scripts/scroll.js"
     ]
   },
   "publicPath": "/app/themes/harper",

@@ -2,5 +2,8 @@
 @import './tachyons-sass/tachyons';
 @import './config/bulma-vars';
 @import '~bulma/bulma';
+@import '~bulma-extensions/dist/css/bulma-extensions.min.css';
+@import '~aos/dist/aos.css';
 @import './type';
 @import './app';
+@import './amendments';
