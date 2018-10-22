@@ -16,7 +16,7 @@
       <div class="columns centered">
         <div class="column center-align">
           <div class="mw4 center">
-            <img src="@asset('images/brand/ddaf-b.png')" />
+            <img class="lozad" data-src="@asset('images/brand/ddaf-b.png')" />
           </div>
         </div>
       </div>

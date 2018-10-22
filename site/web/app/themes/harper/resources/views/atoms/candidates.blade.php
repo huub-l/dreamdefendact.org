@@ -17,7 +17,7 @@
         <div class="column">
           <div class="card">
             <div class="card-image">
-              <figure class="image is-4by3 cover-fill" style="background: url(@asset('images/candidates/andrew-gillum-D.jpg')); background-size: cover;">
+              <figure class="image is-4by3 cover-fill lozad" data-background-image="@asset('images/candidates/andrew-gillum-D.jpg')" style="background: url(); background-size: cover;">
               </figure>
             </div>
             <div class="card-content">
@@ -40,7 +40,7 @@
         <div class="column">
           <div class="card">
             <div class="card-image">
-              <figure class="image is-4by3" style="background: url(@asset('images/candidates/ron-desantis.jpg')); background-size: cover;">
+              <figure class="image is-4by3 lozad" data-background-image="@asset('images/candidates/ron-desantis.jpg')" style="background: url(); background-size: cover;">
               </figure>
             </div>
             <div class="card-content">

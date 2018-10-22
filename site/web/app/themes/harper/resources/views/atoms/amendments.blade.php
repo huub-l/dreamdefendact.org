@@ -10,7 +10,7 @@
       {{-- begin D: --}}
      <div class="columns b2 b--black">
        <div class="title-wrapper column is-1">
-         <h2 class="is-3 title is-1 white bg-dark-red">Amendment 1: Vote NO</h2>
+         <h2 class="is-4 title is-1 white bg-dark-red">Amendment 1: Vote NO</h2>
        </div>
        <div class="column is-5">
          <div class="box">
@@ -28,7 +28,7 @@
         </div>
        {{-- halfway!  --}}
        <div class="title-wrapper column is-1">
-         <h2 class="is-3 title is-1">Amendment 2: Vote NO</h2>
+         <h2 class="is-4 title is-1">Amendment 2: Vote NO</h2>
        </div>
        <div class="column is-5">
           <div class="box">
@@ -49,7 +49,7 @@
      {{-- begin D: --}}
           <div class="columns b2 b--black">
             <div class="title-wrapper column is-1">
-              <h2 class="is-3 title is-1 white bg-dark-red">Amendment 3: Vote YES</h2>
+              <h2 class="is-4 title is-1 white bg-dark-red">Amendment 3: Vote YES</h2>
             </div>
             <div class="column is-5">
               <div class="box">
@@ -60,14 +60,14 @@
               </div>
               <div class="box">
                 <div class="content">
-                  <h2 class="title is-3">Why Are You Neutral?</h2>
+                  <h2 class="title is-3">Why Vote Yes?</h2>
                   <p>If passed, Florida voters would have a say in the Florida gambling industry. Development of the industry would freeze until Floridians give the go-ahead.</p>
                 </div>
               </div>
             </div>
             {{-- halfway!  --}}
             <div class="title-wrapper column is-1">
-              <h2 class="is-3 title is-1">Amendment 4: Vote YES!</h2>
+              <h2 class="is-4 title is-1">Amendment 4: Vote YES!</h2>
             </div>
             <div class="column is-5">
               <div class="box">
@@ -88,7 +88,7 @@
           {{-- begin D: --}}
                <div class="columns b2 b--black">
                  <div class="title-wrapper column is-1">
-                   <h2 class="is-3 title is-1 white bg-dark-red">Amendment 5: Vote NO</h2>
+                   <h2 class="is-4 title is-1 white bg-dark-red">Amendment 5: Vote NO</h2>
                  </div>
                  <div class="column is-5">
                    <h2 class="title is-3">What Is It?</h2>
@@ -98,7 +98,7 @@
                  </div>
                  {{-- halfway!  --}}
                  <div class="title-wrapper column is-1">
-                   <h2 class="is-3 title is-1">Amendment 6: Vote NO</h2>
+                   <h2 class="is-4 title is-1">Amendment 6: Vote NO</h2>
                  </div>
                  <div class="column is-5">
                    <h2 class="title is-3">What Is It?</h2>
@@ -111,7 +111,7 @@
                {{-- begin D: --}}
                     <div class="columns b2 b--black">
                       <div class="title-wrapper column is-1">
-                        <h2 class="is-3 title is-1 white bg-dark-red">Amendment 7: Vote NO</h2>
+                        <h2 class="is-4 title is-1 white bg-dark-red">Amendment 7: Vote NO</h2>
                       </div>
                       <div class="column is-5">
                         <h2 class="title is-3">What Is It?</h2>
@@ -121,7 +121,7 @@
                       </div>
                       {{-- halfway!  --}}
                       <div class="title-wrapper column is-1">
-                        <h2 class="is-3 title is-1">Amendment 9: Vote YES</h2>
+                        <h2 class="is-4 title is-1">Amendment 9: Vote YES</h2>
                       </div>
                       <div class="column is-5">
                         <h2 class="title is-3">What Is It?</h2>
@@ -134,7 +134,7 @@
                     {{-- begin D: --}}
                          <div class="columns b2 b--black">
                            <div class="title-wrapper column is-1">
-                             <h2 class="is-3 title is-1 white bg-dark-red">Amendment 10: Vote NO</h2>
+                             <h2 class="is-4 title is-1 white bg-dark-red">Amendment 10: Vote NO</h2>
                            </div>
                            <div class="column is-5">
                              <h2 class="title is-3">What Is It?</h2>
@@ -144,7 +144,7 @@
                            </div>
                            {{-- halfway!  --}}
                            <div class="title-wrapper column is-1">
-                             <h2 class="is-3 title is-1">Amendment 11: Vote YES</h2>
+                             <h2 class="is-4 title is-1">Amendment 11: Vote YES</h2>
                            </div>
                            <div class="column is-5">
                              <h2 class="title is-3">What Is It?</h2>
@@ -157,7 +157,7 @@
                {{-- begin D: --}}
                     <div class="columns b2 b--black">
                       <div class="title-wrapper column is-1">
-                        <h2 class="is-3 title is-1 white bg-dark-red">Amendment 12: Vote YES</h2>
+                        <h2 class="is-4 title is-1 white bg-dark-red">Amendment 12: Vote YES</h2>
                       </div>
                       <div class="column is-5">
                         <h2 class="title is-3">What Is It?</h2>
@@ -167,7 +167,7 @@
                       </div>
                       {{-- halfway!  --}}
                       <div class="title-wrapper column is-1">
-                        <h2 class="is-3 title is-1">Amendment 13: Vote YES</h2>
+                        <h2 class="is-4 title is-1">Amendment 13: Vote YES</h2>
                       </div>
                       <div class="column is-5">
                         <h2 class="title is-3">What Is It?</h2>
