@@ -114,12 +114,11 @@
                                  <div class="box">
                 <div class="content">
                   <h2 class="card-title">What Is It?</h2>
-                   <p>Amendment 6, also known as "Marsy's Law," removes constitutional protections for those accused of crimes and expands already existing protections for victims. Redefines "victim" in ways that will compromise the privacy of the victim who was injured, especially in domestic abuse and sexual assault cases. Allows for corporations/businesses to be considered victimes.</p>
-                    </div></div>
+<p>Amendment 6, also known as "Marsy's Law," removes constitutional protections for those accused of crimes and expands already existing protections for victims. It redefines "victim" in ways that will compromise the privacy of the victim who was injured, especially in domestic abuse and sexual assault cases. It also allows for corporations/businesses to be considered victims.</p>                    </div></div>
                                  <div class="box">
                 <div class="content">
                   <h2 class="card-title">Why Vote No?</h2>
-                   <p>"Marsy's Law" is being bankrolled by a California millionaire who's pushing this "victim's bill of rights" into states' constitutions across the country. In Florida, the amendment is supported by Senator Lauren Brook, whose dad is a lobbyist with GEO Group, the largest private prison and immigrant detention company in the country. Lauren has taken tens of thousands in contributions from this company.</p>
+                   <p>"Marsy's Law" is being bankrolled by a Californian millionaire who's pushing this "victim's bill of rights" into states' constitutions across the country. In Florida, the amendment is supported by Senator Lauren Brook, whose dad is a lobbyist with GEO Group, the largest private prison and immigrant detention company in the country. Lauren has taken tens of thousands in contributions from this company.</p>
                  </div>
                </div>
               </div>
@@ -134,11 +133,11 @@
                                       <div class="box">
                 <div class="content">
                   <h2 class="card-title">What Is It?</h2>
-                        <p>Amendment 7 requires universities' governing bodies to get supermajority approval from their members to increase student fees or impose new ones. Requires death benefits for first responders and military members, adds state college system structure to constitution.</p>
+                        <p>Amendment 7 requires universities' governing bodies to get supermajority approval from their members to increase or impose new student fees. It also adds the death benefits for first responders and military members, and the state college system structure to the Constitution, rather than keeping these as state law.</p>
                                       </div></div><div class="box">
                 <div class="content">
                   <h2 class="card-title">Why Vote No?</h2>
-                        <p>Supermajorities make it really hard in this polarized climate to make anything change. We also aren't a fan of Florida's college structure being cemented into the state constitution. This would also increase fees or taxes when family members of the military who die in line of service are already compensated by the government.</p>
+                        <p>Supermajorities make it really hard in this polarized climate to make anything change. We also aren't a fan of Florida's college structure being cemented into the state constitution. Family members of the military who die in line of service are already compensated by the government and adding this to the military could increase taxes.</p>
                       </div>
                       </div>
                       </div>
@@ -151,7 +150,7 @@
                                       <div class="box">
                 <div class="content">
                   <h2 class="card-title">What Is It?</h2>
-                        <p>Amendment 9 protects Florida's coasts by banning oil drilling in Florida near shore waters. Bans vaping in enclosed indoor workspaces.</p>
+                        <p>Amendment 9 protects Florida's coasts by banning oil and gas drilling off Florida's coast. It also bans vaping in enclosed indoor workspaces.</p>
                         </div></div>              <div class="box">
                 <div class="content">
                   <h2 class="card-title">Why Vote Yes?</h2>
@@ -170,11 +169,11 @@
                                            <div class="box">
                 <div class="content">
                   <h2 class="card-title">What Is It?</h2>
-                             <p>Amendment 10 creates an Office of Domestic Security and Counter-terrorism within the Florida Department of Law Enforcement. Mandates the existence of a State Department of Veterans Affairs (even though the constitution already authorizes the Legislature to do so).</p>
+                             <p>Amendment 10 creates an Office of Domestic Security and Counter-terrorism within the Florida Department of Law Enforcement. It also mandates the existence of a State Department of Veterans Affairs (even though the constitution already authorizes the Legislature to do so), and forces every county to elect a sheriff.</p>
                              </div></div>              <div class="box">
                 <div class="content">
                   <h2 class="card-title">Why Vote No?</h2>
-                             <p>If passed, this gives police more power and forces all counties to elect and never abolish certain offices such as sheriff's office, county appraiser, etc.<</p>
+                             <p>If passed, this gives police more power and forces all counties to elect and never abolish certain offices such as sheriff's office, county appraiser, etc.</p>
                            </div></div></div>
                            {{-- halfway!  --}}
 </div><div class="columns">
@@ -185,7 +184,7 @@
                                            <div class="box">
                 <div class="content">
                   <h2 class="card-title">What Is It?</h2>
-                             <p>Amendment 11 REPEALS the following: a prohibition against non-residents owning, buying, and selling property; a requirement for a high-speed ground transportation system, and a provision that requires the state to prosecute criminal suspects under the law they were originally charged under, even if the law has changed.</p>
+                             <p>Amendment 11 repeals the following: a prohibition against non-residents owning, buying, and selling property; a requirement for a high-speed ground transportation system, and a provision that requires the state to prosecute criminal suspects under the law they were originally charged under, even if the law has changed.</p>
                              </div></div>              <div class="box">
                 <div class="content">
                   <h2 class="card-title">Why Vote No?</h2>

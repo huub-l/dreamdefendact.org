@@ -6,8 +6,7 @@
           <h1 class="display is-1 is-uppercase black pb6">The Candidates</h1>
           <div class="subtitle is-1 bg-dark-red white is-uppercase mb4">Florida Governor</div>
           <h2 class="f4 mt5 mb5 f-subheadline center-align black">
-            The governor is the head of the executive branch and the highest state office in Florida. They hold the highest executive power, serve as commander of all military forces of the state, and serve as the chief administrative officer of the state responsible for the planning and budgeting for the state. Our next Governor will also have the power to appoint three Florida Supreme Court judges. The Fldorida Governor sit on the Florida Clemency Board.
-          </h2> 
+THE GOVERNOR IS THE HEAD OF THE EXECUTIVE BRANCH AND THE HIGHEST STATE OFFICE IN FLORIDA. THEY HOLD THE HIGHEST EXECUTIVE POWER, SERVE AS COMMANDER OF ALL MILITARY FORCES OF THE STATE, AND SERVE AS THE CHIEF ADMINISTRATIVE OFFICER, RESPONSIBLE FOR THE PLANNING AND BUDGETING FOR THE STATE. OUR NEXT GOVERNOR WILL HAVE THE POWER TO APPOINT THREE FLORIDA SUPREME COURT JUDGES. THE FLORIDA GOVERNOR ALSO SITS ON THE FLORIDA CLEMENCY BOARD.          </h2> 
         </div>
       </div>
       {{-- end overview --}}
@@ -85,73 +84,68 @@
             <tbody>
               <tr>
                 <th>Do you support "Banning the Box" and asking about former incarceration status on employment forms?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-warning">No response.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-warning">No response</td>
               </tr>
               <tr>
                 <th>Do you support banning employment discrimination against LGBTQ individuals?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support raising the minimum wage?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-warning">No response</td>
               </tr>
               <tr>
                 <th>Do you support reforming the cash bail system?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-warning">No response</td>
               </tr>
               <tr>
                 <th>Do you support criminal justice reform aimed at reducing the number of incarcerated individuals in Florida?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support teacher raises?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support increasing funding for K-12 schools?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-warning">No response.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-warning">No response</td>
               </tr>
               <tr>
                 <th>Do you support efforts to advance a clean energy agenda and combat the effects of man-made climate change?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
-              </tr>
-              <tr>
-                <th>Do you support "Banning the Box" and asking about former incarceration status on employment forms?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No response.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support common-sense gun violence prevention measures, including the repeal of "Stand Your Ground" laws?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support efforts to restore voting rights to disenfranchised Floridians?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support issuing driver licenses for applicants over the age of 16?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-warning">No response.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-warning">No response</td>
               </tr>
               <tr>
                 <th>Do you support abolishing ICE?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support a woman's right to quality, affordable healthcare, which includes access to comprehensive contraception and abortion-related care?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
             </tbody>
           </table>
@@ -163,8 +157,7 @@
         <div class="column">
           <div class="subtitle is-1 bg-dark-red white is-uppercase mb4">Attorney General</div>
           <h2 class="f4 mt5 mb5 f-subheadline center-align black">
-            The Attorney General serves as the highest legal counsel for the State of Florida and as a member of the governor's cabinet. They are responsible for the enforcement of state consumer protection and antitrust laws; represent the state in appeals, including death penalty cases; issue formal legal opinions at the request of public officials relating to the application of state law; and defend the constitutionality of laws enacted by the Legislature. The Attorney General also sits on the Florida Clemency Board.
-          </h2>
+THE ATTORNEY GENERAL IS A MEMBER OF THE FLORIDA CABINET AND SERVES AS THE HIGHEST LEGAL COUNSEL FOR THE STATE. THEY ARE RESPONSIBLE FOR THE ENFORCEMENT OF STATE CONSUMER PROTECTION AND ANTITRUST LAWS; REPRESENT THE STATE IN APPEALS, INCLUDING DEATH PENALTY CASES; ISSUE FORMAL LEGAL OPINIONS AT THE REQUEST OF PUBLIC OFFICIALS RELATING TO THE APPLICATION OF STATE LAW; AND DEFEND THE CONSTITUTIONALITY OF LAWS ENACTED BY THE LEGISLATURE. THE ATTORNEY GENERAL ALSO SITS ON THE FLORIDA CLEMENCY BOARD.          </h2>
         </div>
       </div>
       {{-- end overview --}}
@@ -235,23 +228,23 @@
             <tbody>
               <tr>
                 <th>Do you support common-sense gun violence prevention measures, including the repeal of "Stand Your Ground" laws?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No, has an A rating from the NRA.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No (has an A rating from the NRA).</td>
               </tr>
               <tr>
                 <th>Do you support the Affordable Care Act?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No, trying to get Obamacare declared unconstitutional.</td>
               </tr>
               <tr>
                 <th>Do you support Amendment 4 to restore voting rights for Floridians with felony convictions?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you oppose private prisons?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
             </tbody>
           </table>
@@ -264,8 +257,7 @@
       <div class="column">
 <div class="subtitle is-1 bg-dark-red white is-uppercase mb4">Agriculture Commissioner</div>
         <h2 class="f4 mt5 mb5 f-subheadline center-align black">
-          The commissioner is an executive officer who oversees the Department of Agriculture and Consumer Services (FDACS), the state agency that regulates and promotes the Florida agricultural industry. The Agriculture Commissioner also sits on the Florida Clemency Board.
-        </h2>
+THE AGRICULTURE COMMISSIONER IS A MEMBER OF THE FLORIDA CABINET AND OVERSEES THE DEPARTMENT OF AGRICULTURE AND CONSUMER SERVICES (FDACS), THE STATE AGENCY THAT REGULATES AND PROMOTES THE FLORIDA AGRICULTURAL INDUSTRY. THE AGRICULTURE COMMISSIONER ALSO SITS ON THE FLORIDA CLEMENCY BOARD.        </h2>
       </div>
     </div>
     {{-- end overview --}}
@@ -336,23 +328,23 @@
             <tbody>
               <tr>
                 <th>Do you support expanding medical marijuana?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-primary">Yes</td>
               </tr>
               <tr>
                 <th>Do you support banning offshore drilling?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support common-sense gun violence prevention measures?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No. Endorsed by the NRA.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No, endorsed by the NRA.</td>
               </tr>
               <tr>
                 <th>Have you taken money from the big sugar industry, whose polluted runoff has contributed to the water crisis in Lake Okochobee?</th>
-                <td class="is-primary"><strong>No</strong></td>
-                <td class="is-danger">Yes.</td>
+                <td class="is-primary">No</td>
+                <td class="is-danger">Yes</td>
               </tr>
             </tbody>
           </table>
@@ -366,8 +358,7 @@
             <div class="column">
 <div class="subtitle is-1 bg-dark-red white is-uppercase mb4">Chief Financial Officer</div>
 <h2 class="f4 mt5 mb5 f-subheadline center-align black">
-                The Chief Financial Officer, a state executive position, oversees the Department of Financial Services. They provide accounting, auditing, and payroll services to the state, manage the state's finances, and oversee receipt and disbursement of funds. The Chief Financial Officer also sits on the Florida Clemency Board.
-              </h2>
+THE CHIEF FINANCIAL OFFICER IS A MEMBER OF THE FLORIDA CABINET AND OVERSEES THE DEPARTMENT OF FINANCIAL SERVICES. THEY PROVIDE ACCOUNTING, AUDITING, AND PAYROLL SERVICES TO THE STATE, MANAGE THE STATE'S FINANCES, AND OVERSEE RECEIPTS AND DISBURSEMENT OF FUNDS. THE CHIEF FINANCIAL OFFICER ALSO SITS ON THE FLORIDA CLEMENCY BOARD.              </h2>
             </div>
           </div>
           {{-- end overview --}}
@@ -408,8 +399,7 @@
                     </div>
                   </div>
                   <div class="content">
-                  Jimmy Patronis is the current CFO and was appointed by Gov. Rick Scott last year. He is also a former member of the Florida House of Representatives, repealing District 6 from 2006 to 2014. He has received an "A" rating from the NRA.
-                  </div>
+Jimmy Patronis is the current CFO and was appointed by Gov. Rick Scott last year. He is also a former member of the Florida House of Representatives, representing District 6 from 2006 to 2014. He has received an "A" rating from the NRA.                  </div>
                 </div>
               </div>
             </div>
@@ -420,7 +410,7 @@
      <div class="columns">
         <div class="column has-addons-centered centered has-text-centered">
 <div class="mt5 fl mb6 subtitle is-3 bg-black is-uppercase mb4">Where Do They Stand?</div>
-          <table class="table is-hoverable is-fullwidth is-striped mb6">
+          <table class="table is-hoverable is-fullwidth is-striped mb6  overflow-scroll">
             <thead>
               <tr>
                 <th>Issue</th>
@@ -438,14 +428,14 @@
             <tbody>
               <tr>
                 <th>Do you support Amendment 4 to restore voting rights for Floridians with felony convictions?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-warning"><strong>No Response</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-warning">No response</td>
               </tr>
               <tr>
                 <th>Endorsed by</th>
-                <td class="is-primary"><strong>SEIU<br/><br/>
+                <td class="is-primary"><strong>Service Employees International Union<br/><br/>
               AFL-CIO<br/><br />
-            AFSCME<br /><br />
+            American Federation of State, County and Municipal Employees<br /><br />
           Florida Education Association<br /><br />
         International Association of Firefighters</strong></td>
                 <td class="is-danger">Marco Rubio<br /><br />
@@ -508,8 +498,7 @@
     </div>
   </div>
   <div class="content">
-    Richard Lynn Scott is a former CEO and the 45th Senator of Florida and has been serving since 2011. He has received more than $100k from private prisons.
-  </div>
+Richard Lynn Scott is a former CEO and has been serving as the Governor of Florida since 2011. He has received more than $100k from private prisons.  </div>
 </div>
 </div>
 </div>
@@ -538,33 +527,33 @@
             <tbody>
               <tr>
                 <th>Do you support banning employment discrimination against LGBTQ individuals?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-warning"><strong>No Response</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-warning">No response</td>
               </tr>
               <tr>
                 <th>Do you support raising the minimum wage?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger"><strong>No</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support criminal justice reform aimed at reducing the number of incarcerated individuals in Florida?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-warning"><strong>No Response</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-warning">No response</td>
               </tr>
               <tr>
                 <th>Do you support increasing funding for K-12 schools?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-primary">Yes</td>
               </tr>
               <tr>
                 <th>Do you support efforts to advance a clean energy agenda and combat the effects of man-made climate change?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger"><strong>No</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>  
               <tr>
                 <th>Do you support a woman's right to quality, affordable healthcare, which includes access to comprehensive contraception and abortion-related care?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger"><strong>No</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>              
             </tbody>
           </table>
@@ -644,23 +633,23 @@
             <tbody>
               <tr>
                 <th>Do you support common-sense gun violence prevention measures, such as the repeal of "Stand Your Ground" laws?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger"><strong>No.</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support the Affordable Care Act?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger"><strong>No</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support issuing driver licenses for applicants over the age of 16?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-warning"><strong>No Response</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-warning">No response</td>
               </tr>
               <tr>
                 <th>Do you support a woman's right to quality, affordable healthcare, which includes access to comprehensive contraception and abortion-related care?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger"><strong>No</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>              
             </tbody>
           </table>
@@ -741,23 +730,23 @@
             <tbody>
               <tr>
                 <th>Do you support common-sense gun violence prevention measures, such as the repeal of "Stand Your Ground" laws?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No (has an A+ rating from the NRA).</td>
               </tr>
               <tr>
                 <th>Do you support the Affordable Care Act?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support a woman's right to quality, affordable healthcare, which includes access to comprehensive contraception and abortion-related care?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No</td>
               </tr>
                             <tr>
                 <th>Do you oppose private prisons?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No. Has taken thousands in contributions from GEO Group.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No (has taken thousands in contributions from GEO Group).</td>
               </tr>            
             </tbody>
           </table>
@@ -839,23 +828,23 @@
             <tbody>
               <tr>
                 <th>Do you support common-sense gun violence prevention measures, such as the repeal of "Stand Your Ground" laws?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-warning">After Parkland, Yes. Took thousands from the NRA prior.</td>
               </tr>
               <tr>
                 <th>Do you support the Affordable Care Act?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support a woman's right to quality, affordable healthcare, which includes access to comprehensive contraception and abortion-related care?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No</td>
               </tr>
                             <tr>
                 <th>Do you support raising the minimum wage?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>            
             </tbody>
           </table>
@@ -937,9 +926,9 @@
 {{-- end candidate cardset --}}
 
 <div class="columns">
-        <div class="column has-addons-centered centered has-text-centered">
-<div class="mt5 fl mb6 subtitle is-3 bg-black is-uppercase mb4">Where Do They Stand?</div>
-          <table class="table is-hoverable is-fullwidth is-striped mb6">
+        <div class="column has-addons-centered centered has-text-centered overflow-x-scroll">
+<div class="mt5 fl mb6 subtitle is-3 bg-black is-uppercase mb4 ">Where Do They Stand?</div>
+          <table class="table is-hoverable is-fullwidth is-striped mb6 overflow-x-scroll">
             <thead>
               <tr>
                 <th>Issue</th>
@@ -959,27 +948,27 @@
             <tbody>
               <tr>
                 <th>Do you support free tuition at public universities and colleges?</th>
-                <td class="is-danger">No.</td>
-                <td class="is-danger">No.</td>             
-                <td class="is-primary"><strong>Yes</strong></td> 
+                <td class="is-danger">No</td>
+                <td class="is-danger">No</td>             
+                <td class="is-primary">Yes</td> 
               </tr>
               <tr>
                 <th>Do you support Medicare for All?</th>
                 <td class="is-warning">No (supports ACA)</td>
-                <td class="is-danger">No.</td>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-danger">No</td>
+                <td class="is-primary">Yes</td>
               </tr>
               <tr>
                 <th>Do you support a $15 minimum wage?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No</td>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
               </tr>  
                             <tr>
                 <th>Do you support a woman's right to quality, affordable healthcare, which includes access to comprehensive contraception and abortion related care?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No</td>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
               </tr>         
             </tbody>
           </table>
@@ -1060,22 +1049,22 @@
             <tbody>
               <tr>
                 <th>Do you support common-sense gun violence prevention measures, such as the repeal of "Stand Your Ground" laws?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No. Has received tens of thousands from the NRA.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No (has received tens of thousands from the NRA).</td>
               </tr>
               <tr>
                 <th>Do you support the Affordable Care Act?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No</td>
               </tr>
                             <tr>
                 <th>Do you support raising the minimum wage?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-warning">No response</td>
               </tr>   
                             <tr>
                 <th>Do you support a woman's right to quality, affordable healthcare, which includes access to comprehensive contraception and abortion-related care?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No</td>
               </tr>         
             </tbody>
@@ -1155,23 +1144,23 @@
             <tbody>
               <tr>
                 <th>Do you support common-sense gun violence prevention measures, such as the repeal of "Stand Your Ground" laws?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
+                <td class="is-primary">Yes</td>
               </tr>
               <tr>
                 <th>Do you support the Affordable Care Act?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support a woman's right to quality, affordable healthcare, which includes access to comprehensive contraception and abortion-related care?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
                 <td class="is-danger">No</td>
               </tr>        
               <tr>
                 <th>Do you oppose private prisons?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No. Has taken thousands in contributions from GEO Group.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No (has taken thousands in contributions from GEO Group).</td>
               </tr>    
             </tbody>
           </table>
@@ -1247,9 +1236,9 @@
 </div>
 {{-- end candidate cardset --}}
 <div class="columns">
-        <div class="column has-addons-centered centered has-text-centered">
+        <div class="column has-addons-centered centered has-text-centered overflow-hidden">
 <div class="mt5 fl mb6 subtitle is-3 bg-black is-uppercase mb4">Where Do They Stand?</div>
-          <table class="table is-hoverable is-fullwidth is-striped mb6">
+          <table class="table is-hoverable is-fullwidth is-striped mb6  overflow-hidden overflow-x-scroll">
             <thead>
               <tr>
                 <th>Issue</th>
@@ -1269,27 +1258,27 @@
             <tbody>
               <tr>
                 <th>Do you support free tuition at public universities and colleges?</th>
-                <td class="is-danger">No.</td>
-                <td class="is-danger">No.</td>             
-                <td class="is-primary"><strong>Yes</strong></td> 
+                <td class="is-danger">No</td>
+                <td class="is-danger">No</td>             
+                <td class="is-primary">Yes</td> 
               </tr>
               <tr>
                 <th>Do you support the Affordable Care Act?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
+                <td class="is-danger">No</td>
               </tr>
               <tr>
                 <th>Do you support raising the minimum wage?</th>
-                <td class="is-danger"><strong>No.</strong></td>
+                <td class="is-danger">No</td>
                 <td class="is-warning">No response.</td>
-                <td class="is-primary"><strong>Yes</strong></td>
+                <td class="is-primary">Yes</td>
               </tr>  
                             <tr>
                 <th>Do you support a woman's right to quality, affordable healthcare, which includes access to comprehensive contraception and abortion related care?</th>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-primary"><strong>Yes</strong></td>
-                <td class="is-danger">No.</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-primary">Yes</td>
+                <td class="is-danger">No</td>
               </tr>         
             </tbody>
           </table>

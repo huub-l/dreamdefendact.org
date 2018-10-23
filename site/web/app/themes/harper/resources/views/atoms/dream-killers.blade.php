@@ -19,8 +19,7 @@
          </h2>
          <h2 class="is-4 title">Florida Senate, 32nd District</h2>
          <p class="lh-copy">
-           Lauren Book, the daughter of slimy lobbyist (Ronald Book) takes thousands from the GEO Group, the second largest prison company in the world. She is the poster child for "Mary's Law", which is a corprorate authored ballot amendment seeking to give big business more (human) power in our legal system and lock more people up. She is considered by political circles to be a "rising star" in the Democratic Party.
-         </p>
+Lauren Book, the daughter of slimy lobbyist Ronald Book, takes thousands from the GEO Group, the second largest prison company in the world. She is the poster child for Marsy's Law, a corprorate authored ballot amendment seeking to give big business more (human) power in our legal system and lock more people up. She is considered by political circles to be a "rising star" in the Democratic Party.         </p>
        </div>
      </div>
      <div class="columns is-8">
@@ -51,8 +50,7 @@
          </h2>
          <h2 class="is-4 title tc tl-ns">Running in District 27</h2>
          <p class="lh-copy tc tl-ns">
-           Donna Shalala is the quintessential "DINO:" Democrat in Name Only. She has contributed $21,500 to Florida Republicans running for state, local and federal offices over the past decade - including GOP and frequent movement opponent Rep. Illeana Ros-Lehtinen. A president of the University of Miami, she was nicknamed "Donna Walmarta" for selling a parcel of environmentally sensitive University o Miami land to developers who plan to build a Walmart. While President, she blocked calls for raises by janitors at every turn, forcing them into a hunger strike that left many hospitalized. She also served time in the Clinton administration where the Washington Post labeled her "one of the most controversial Clinton Cabinet nominees.""
-         </p>
+Donna Shalala is the quintessential "DINO:" Democrat in Name Only. She has contributed $21,500 to Florida Republicans running for state, local and federal offices over the past decade, including GOP and frequent movement-opponent Rep. Illeana Ros-Lehtinen. As president of the University of Miami, she was nicknamed "Donna Walmarta" for selling a parcel of environmentally sensitive University of Miami land to developers who plan to build a Walmart. While President, she blocked calls for raises by janitors at every turn, forcing them into a hunger strike that left many hospitalized. She also served time in the Clinton administration where the Washington Post labeled her "one of the most controversial Clinton Cabinet nominees."         </p>
        </div>
      </div>
     </div>
