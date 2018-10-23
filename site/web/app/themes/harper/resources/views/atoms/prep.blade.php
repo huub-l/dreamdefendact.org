@@ -8,19 +8,18 @@
           <p class="pt4 pb4">Whether during early voting or on Election Day, you will be asked to provide at the polls a valid photo ID with signature. <span class="bg-black white">Any one of the following photo IDs will be accepted:</span></p>
           <div class="content">
             <ol class="is-upper-alpha">
-              <li>Florida Driver's License</li>
-              <li>Florida identification card issues by the Department of Highway Safety and Motor Vehicles</li>
+              <li>Florida driver’s license</li>
+              <li>Florida identification card issued by the Department of Highway Safety and Motor Vehicles</li>
               <li>United States passport</li>
-              <li>Debit or Credit card</li>
+              <li>Debit or credit card</li>
               <li>Military identification</li>
               <li>Student identification</li>
               <li>Retirement center identification</li>
               <li>Neighborhood association identification</li>
               <li>Public assistance identification</li>
-              <li>Public assistance identification</li>
-              <li>Veteran health identification card issued by the United States Department of Veteran Affairs</li>
-              <li>License to carry a concealed weapon or firearm</li>
-              <li>Employee identificaiton card issued by any branch, department, agency, or entity of the FEderal Government, the state, a county, or a municipality.</li>
+              <li>Veteran health identification card issued by the United States Department of Veterans Affairs</li>
+              <li>License to carry a concealed weapon or firearms</li>
+              <li>Employee identification card issued by any branch, department, agency, or entity of the Federal Government, the state, a county, or a municipality.</li>
             </ol>
           </div>
         </div>

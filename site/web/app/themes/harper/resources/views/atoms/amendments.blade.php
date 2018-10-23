@@ -35,7 +35,7 @@
           <div class="box">
             <div class="content">
               <h2 class="card-title">What Is It?</h2>
-              <p>Amendment 2 makes permanent what currently is a temporary cap of 10% on annual property value increases for vacation homes, apartments, and commercial property, effectively liming increases on tax bills.</p>
+              <p>Amendment 2 makes permanent what currently is a temporary cap of 10% on annual property value increases for vacation homes, apartments, and commercial property, effectively limiting increases on tax bills.</p>
             </div>
           </div>
           <div class="box">
@@ -62,7 +62,7 @@
               <div class="box">
                 <div class="content">
                   <h2 class="title is-3">Why Vote Yes?</h2>
-                  <p>If passed, Florida voters would have a say in the Florida gambling industry. Development of the industry would freeze until Floridians give the go-ahead.</p>
+                  <p>If passed, Florida voters would have a say in the state's gambling industry. Development of the industry would freeze until Floridians give the go-ahead.</p>
                 </div>
               </div>
             </div>

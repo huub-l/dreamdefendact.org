@@ -19,6 +19,14 @@ header.header {
   }
 }
 
+#section-candidates {
+  @media screen and (max-width: 30em) {
+    table {
+      max-width: 95% !important
+    }
+  }
+}
+
 #section-dream-killers {
   .columns {
     @extend .mv6;
