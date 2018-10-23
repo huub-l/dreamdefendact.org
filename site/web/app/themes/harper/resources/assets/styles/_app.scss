@@ -17,16 +17,18 @@ body {
 }
 
 .bordered {
-  border: 1rem solid $black;
-  border-top: none;
+  border: none;
+
+  @media screen and (min-width: 60em) {
+    border-bottom: ($spacing-medium/4);
+    border-top: none;
+    border-style: solid;
+    border-color: $black;
+  }
 }
 
 .bg__screen {
   background: rgba(252, 255, 252, 0.4);
-}
-
-.bg__dotted {
-  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjZmZmIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNjY2MiPjwvcmVjdD4KPC9zdmc+");
 }
 
 .brand {
@@ -43,15 +45,10 @@ body {
 
 section.section {
   @extend .pv6;
-  @extend .shadow-3;
 
   .subtitle {
     display: inline;
   }
-}
-
-section.section.intro {
-  @extend .pv7;
 }
 
 #section-prepare {

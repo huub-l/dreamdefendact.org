@@ -1,37 +1,35 @@
 <nav class="navbar is-black sticky">
     <div class="navbar-brand">
     <a class="navbar-item" href="/">
-      <div class="display ttu peace">// &nbsp; &nbsp; The Dream Defenders' 2018 Voting Guide</div>
+      <div class="ttu sans-serif fw9">Voting Guide 2018</div>
     </a>
-
     <div class="navbar-burger burger" data-target="navMenubd-example">
       <span></span>
       <span></span>
       <span></span>
     </div>
   </div>
-
   <div id="navMenubd-example" class="navbar-menu">
     <div class="navbar-start">
-      <a class="navbar-item " href="#section-prepare">
-        BE READY
+      <a class="navbar-item hover-bg-dark-red" href="#section-prepare">
+        PREP
       </a>
       <a class="navbar-item " href="#section-amendments">
-        THE ISSUES
+        AMENDMENTS
       </a>
       <a class="navbar-item " href="#section-candidates">
-        THE CANDIDATES
+        CANDIDATES
       </a>
       <a class="navbar-item " href="#section-dream-killers">
-        THE "DREAM KILLERS"
+       "DREAM KILLERS"
       </a>
       <a class="navbar-item " href="#section-freedom-papers">
-        THE FREEDOM PAPERS
+        SUPPORTERS
       </a>
-      <a class="navbar-item " href="#section-dream-defenders">
+      <a class="navbar-item dn-ns" href="#section-dream-defenders">
         ABOUT
       </a>
-      <a class="navbar-item " href="https://www.dreamdefenders.org/onetime_donor">
+      <a class="navbar-item dn-ns" href="https://www.dreamdefenders.org/onetime_donor">
         SUPPORT OUR WORK
       </a>
     </div>

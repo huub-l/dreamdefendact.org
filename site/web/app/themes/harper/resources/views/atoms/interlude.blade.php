@@ -26,7 +26,7 @@
   </div>
 </div>
 <div class="bg-black">
-<div class="mw9 pv5 bg-black centered center center-align">
+<div class="mw9 ph2 pv5 bg-black centered center center-align">
 <div class="white has-text-centered f2">If you find this guide helpful or think it is important, please consider supporting our work.</div>
   <div class="mt4 has-text-centered"><a href="https://www.dreamdefenders.org/onetime_donor" class="button is-large is-dark">Donate today</a></div>
 </div>

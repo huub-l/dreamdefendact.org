@@ -5,7 +5,7 @@
         <div class="column">
           <h1 class="display is-1 is-uppercase black">What To Take With You</h1>
           <h2 class="subtitle bg-black is-2 is-uppercase">✓ Photo ID with signature</h2>
-          <p>Whether during early voting or on Election Day, you will be asked to provide at the polls a valid photo ID with signature. <span class="bg-black white">Any one of the following photo IDs will be accepted:</span></p>
+          <p class="pt4 pb4">Whether during early voting or on Election Day, you will be asked to provide at the polls a valid photo ID with signature. <span class="bg-black white">Any one of the following photo IDs will be accepted:</span></p>
           <div class="content">
             <ol class="is-upper-alpha">
               <li>Florida Driver's License</li>

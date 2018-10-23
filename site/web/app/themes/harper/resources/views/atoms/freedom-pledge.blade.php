@@ -11,8 +11,8 @@
       <div class="columns">
         <div class="column">
           <div class="content white">
-          <article data-name="slab-stat" class="ma0 pa0 pt5 bl bw3 bt b--yellow">
-            <ul class="bg-black pa3 pl0 pr0 pl0-ns ph0-ns ph0 pr0-ns pa0 pa0-ns pa5-ns ma0" style="margin: 0px!important; padding: 0px!important;">
+          <article data-name="slab-stat" class="ma0 pa0 bl bw3 bt b--yellow">
+            <ul class="bg-black pr0 ma0">
               <li class="dib mr2"><div class="bg-black f4 f2-ns b db pa0 pl0 link hover-yellow white ttu peace fw3">Shevrin Jones</div></li>
               <li class="dib mr2"><div class="f4 f2-ns b db pa0 pa0 pl0 link hover-yellow white ttu peace fw3">Michael Hepburn</div></li>
               <li class="dib mr2"><div class="f4 f2-ns b db pa2 pl0 link hover-yellow white ttu peace fw3">Andrew Gillum</div></li>

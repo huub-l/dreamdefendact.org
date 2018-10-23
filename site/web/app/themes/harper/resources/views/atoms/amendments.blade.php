@@ -6,11 +6,11 @@
           <h1 class="display is-1 is-uppercase black">The Amendments</h1>
         </div>
       </div>  
-
      <div class="columns b2 b--black">
-       <div class="title-wrapper column">
-         <h2 class="is-4 title is-1">Amendment 1: Vote NO</h2>
+            <div class="title-wrapper column is-6">
+         <h3 class="peace title f-headline f-6 ttu">Amendment 1: Vote NO</h3>
        </div>
+      
        <div class="column is-5">
          <div class="box">
             <div class="content">
@@ -26,8 +26,10 @@
           </div>
         </div>
        {{-- halfway!  --}}
-       <div class="title-wrapper column is-1">
-         <h2 class="is-4 title is-1">Amendment 2: Vote NO</h2>
+</div>
+<div class="columns">
+            <div class="title-wrapper column is-6">
+         <h3 class="peace title f-headline f-6 ttu">Amendment 2: Vote NO</h3>
        </div>
        <div class="column is-5">
           <div class="box">
@@ -47,8 +49,8 @@
      {{-- end --}}
      {{-- begin D: --}}
           <div class="columns b2 b--black">
-            <div class="title-wrapper column is-1">
-              <h2 class="is-4 title is-1 white bg-dark-red">Amendment 3: Vote YES</h2>
+            <div class="title-wrapper column is-6">
+              <h3 class="peace title f-headline f-6 ttu">Amendment 3: Vote YES</h3>
             </div>
             <div class="column is-5">
               <div class="box">
@@ -65,8 +67,9 @@
               </div>
             </div>
             {{-- halfway!  --}}
-            <div class="title-wrapper column is-1">
-              <h2 class="is-4 title is-1">Amendment 4: Vote YES!</h2>
+</div><div class="columns">
+            <div class="title-wrapper column is-1 is-6">
+              <h3 class="peace title f-headline f-6 ttu">Amendment 4: Vote YES!</h3>
             </div>
             <div class="column is-5">
               <div class="box">
@@ -86,8 +89,8 @@
           {{-- end --}}
           {{-- begin D: --}}
                <div class="columns b2 b--black">
-                 <div class="title-wrapper column is-1">
-                   <h2 class="is-4 title is-1 white bg-dark-red">Amendment 5: Vote NO</h2>
+            <div class="title-wrapper column is-1 is-6">
+                   <h3 class="peace title f-headline f-6 ttu">Amendment 5: Vote NO</h3>
                  </div>
                  <div class="column is-5">
               <div class="box">
@@ -103,8 +106,9 @@
                 </div>
               </div>
                  {{-- halfway!  --}}
-                 <div class="title-wrapper column is-1">
-                   <h2 class="is-4 title is-1">Amendment 6: Vote NO</h2>
+</div><div class="columns">
+            <div class="title-wrapper column is-1 is-6">
+                   <h3 class="peace title f-headline f-6 ttu">Amendment 6: Vote NO</h3>
                  </div>
                  <div class="column is-5">
                                  <div class="box">
@@ -123,8 +127,8 @@
                {{-- end --}}
                {{-- begin D: --}}
                     <div class="columns b2 b--black">
-                      <div class="title-wrapper column is-1">
-                        <h2 class="is-4 title is-1 white bg-dark-red">Amendment 7: Vote NO</h2>
+            <div class="title-wrapper column is-1 is-6">
+                        <h3 class="peace title f-headline f-6 ttu">Amendment 7: Vote NO</h3>
                       </div>
                       <div class="column is-5">
                                       <div class="box">
@@ -139,8 +143,9 @@
                       </div>
                       </div>
                       {{-- halfway!  --}}
-                      <div class="title-wrapper column is-1">
-                        <h2 class="is-4 title is-1">Amendment 9: Vote YES</h2>
+</div><div class="columns">
+            <div class="title-wrapper column is-1 is-6">
+                       <h3 class="peace title f-headline f-6 ttu">Amendment 9: Vote YES</h3>
                       </div>
                       <div class="column is-5">
                                       <div class="box">
@@ -158,8 +163,8 @@
                     {{-- end --}}
                     {{-- begin D: --}}
                          <div class="columns b2 b--black">
-                           <div class="title-wrapper column is-1">
-                             <h2 class="is-4 title is-1 white bg-dark-red">Amendment 10: Vote NO</h2>
+                           <div class="title-wrapper column is-6">
+                             <h3 class="peace title f-headline f-6 ttu">Amendment 10: Vote NO</h3>
                            </div>
                            <div class="column is-5">
                                            <div class="box">
@@ -172,8 +177,9 @@
                              <p>If passed, this gives police more power and forces all counties to elect and never abolish certain offices such as sheriff's office, county appraiser, etc.<</p>
                            </div></div></div>
                            {{-- halfway!  --}}
-                           <div class="title-wrapper column is-1">
-                             <h2 class="is-4 title is-1">Amendment 11: Vote YES</h2>
+</div><div class="columns">
+                           <div class="title-wrapper column is-6">
+                             <h3 class="peace title f-headline f-6 ttu mt5">Amendment 11: Vote YES</h3>
                            </div>
                            <div class="column is-5">
                                            <div class="box">
@@ -189,8 +195,8 @@
                          {{-- end --}}
                {{-- begin D: --}}
                     <div class="columns b2 b--black">
-                      <div class="title-wrapper column is-1">
-                        <h2 class="is-4 title is-1 white bg-dark-red">Amendment 12: Vote YES</h2>
+                      <div class="title-wrapper column is-6">
+                        <h3 class="peace title f-headline f-6 ttu">Amendment 12: Vote YES</h3>
                       </div>
                       <div class="column is-5">
                                       <div class="box">
@@ -203,8 +209,9 @@
                         <p>Politicians get paid to influence political decisions after they have left office. If passed, this would make it harder for them to use money to influence their former colleagues for private interest.</p>
                       </div></div></div>
                       {{-- halfway!  --}}
-                      <div class="title-wrapper column is-1">
-                        <h2 class="is-4 title is-1">Amendment 13: Vote YES</h2>
+</div><div class="columns">
+                      <div class="title-wrapper column is-6">
+                        <h3 class="peace title f-headline f-6 ttu">Amendment 13: Vote YES</h3>
                       </div>
                       <div class="column is-5">
                                       <div class="box">
