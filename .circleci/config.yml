@@ -40,6 +40,8 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "5e:d5:c5:af:1b:ef:9e:72:67:5b:cf:f5:87:51:9f:da"
+      - restore_cache:
+          key: v1-ansible-galaxy-{{ checksum "trellis/requirements.yml" }}
       - run:
           name: Set Ansible Vault Pass
           command: echo $ANSIBLE_VAULT_PASSWORD > .vault_pass
