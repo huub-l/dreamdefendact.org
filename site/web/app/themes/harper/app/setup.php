@@ -35,6 +35,7 @@ add_action('after_setup_theme', function () {
     add_theme_support('soil-nav-walker');
     add_theme_support('soil-nice-search');
     add_theme_support('soil-relative-urls');
+    add_theme_support('soil-google-analytics', 'UA-41597945-3');
 
     /**
      * Enable plugins to manage the document title
@@ -131,5 +132,5 @@ add_action('after_setup_theme', function () {
      */
     sage('blade')->compiler()->directive('asset', function ($asset) {
         return "<?= " . __NAMESPACE__ . "\\asset_path({$asset}); ?>";
-    });
+});
 });
