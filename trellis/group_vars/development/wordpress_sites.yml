@@ -5,7 +5,7 @@
 wordpress_sites:
   dreamdefendact.org:
     site_hosts:
-      - canonical: dreamdefendact.pix
+      - canonical: dreamdefendact.local
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: developers@tinypixel.io
     multisite:
