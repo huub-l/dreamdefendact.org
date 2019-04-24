@@ -5,11 +5,11 @@ ssmtp_start_tls: 'Yes'
 ssmtp_tls: 'Yes'
 # ssmtp_revaliases:
 #   - user: root
-#     from: from@votingguide.org
+#     from: from@example.com
 #     smtp_server: "{{ mail_smtp_server }}"
 #   - user: "{{ admin_user }}"
-#     from: from@votingguide.org
+#     from: from@example.com
 #     smtp_server: "{{ mail_smtp_server }}"
 #   - user: "{{ web_user }}"
-#     from: from@votingguide.org
+#     from: from@example.com
 #     smtp_server: "{{ mail_smtp_server }}"

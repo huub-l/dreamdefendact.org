@@ -1,16 +1,16 @@
 Required format for `site_hosts` (group_vars/{{ env }}/wordpress_sites.yml):
 
-votingguide.org:
+example.com:
   site_hosts:
-    - canonical: votingguide.org
+    - canonical: example.com
 
 The above is the minimum required. Multiple hosts and redirects are possible:
 
-votingguide.org:
+example.com:
   site_hosts:
-    - canonical: votingguide.org
+    - canonical: example.com
       redirects:
-        - www.votingguide.org
+        - www.example.com
         - site.com
     - canonical: example.co.uk
       redirects:

@@ -2,7 +2,12 @@
 # -*- coding: utf-8 -*-
 
 import socket
-from httplib import HTTPConnection, HTTPException
+
+try:
+    from httplib import HTTPConnection, HTTPException
+except ImportError:
+    # Python 3
+    from http.client import HTTPConnection, HTTPException
 
 DOCUMENTATION = '''
 ---
@@ -35,8 +40,8 @@ EXAMPLES = '''
 # Example from Ansible Playbooks.
 - test_challenges:
     hosts:
-      - votingguide.org
-      - www.votingguide.org
+      - example.com
+      - www.example.com
       - www.mydomain.com
 '''
 
