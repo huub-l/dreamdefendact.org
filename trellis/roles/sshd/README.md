@@ -18,7 +18,7 @@ The `ServerAliveInterval` option causes your SSH client to periodically send the
 To keep the files as simple as possible, options are omitted if their system defaults are secure and broadly applicable. You may see the full and active configuration by running the following commands on your server.
 
 * SSH server (`sshd_config`): `sshd -T`
-* SSH client (`ssh_config`): `ssh -G votingguide.org`
+* SSH client (`ssh_config`): `ssh -G example.com`
 
 There are [resources](#resources) for understanding each option.
 
@@ -123,7 +123,7 @@ Here is an example child template that adds host-specific SSH options at the beg
 
 {% block main %}
 # Host-specific configuration
-Host votingguide.org example2.com
+Host example.com example2.com
 	Port 2222
 	ForwardAgent yes
 
