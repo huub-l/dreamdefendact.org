@@ -1,1 +1,11 @@
+# site/wp-cli.yml
 path: web/wp
+
+@development:
+  ssh: vagrant@dreamdefendact.valet/srv/www/dreamdefendact.org/current
+
+@staging:
+  ssh: web@staging.dreamdefendact.org/srv/www/dreamdefendact.org/current
+
+@production:
+  ssh: web@dreamdefendact.org/srv/www/dreamdefendact.org/current
