@@ -21,6 +21,5 @@ web/app/plugins/harpers-ferry/*
 !.env.example
 *.sql
 
-
 # Composer
 /vendor
